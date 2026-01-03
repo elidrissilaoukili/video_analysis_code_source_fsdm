@@ -1,0 +1,4 @@
+python demo.py --model=models/raft-things.pth --path=demo-frames
+
+
+python demo.py --model=models/raft-small.pth --path=demo-frames
