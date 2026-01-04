@@ -13,6 +13,7 @@ TP7/*.png
 
 TP8/pysot
 TP8/model.pth
+TP8/tp8-results
 
 TP9/MaskRCNNDetector
 TP9/YOLOv8Detector
